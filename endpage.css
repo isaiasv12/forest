@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background:url("https://upload.wikimedia.org/wikipedia/commons/b/be/Beach_in_Sharm_el-Naga03.jpg"); }
+
+h1{
+    font-size: 200%;
+    margin: 300px 0px 0px 0px;
+    color: black; }
+
+p{
+    font-size: 150%;
+    padding: 10px; }
+
+a{
+    font-size: 150%;
+    color: white; }

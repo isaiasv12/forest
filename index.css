@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+
+body{
+    background: url("https://upload.wikimedia.org/wikipedia/commons/8/85/Gallatin_National_Forest.jpg") no-repeat;
+    background-size:cover;
+}
+h1{
+    background-color:White;
+    text-align:center;
+    color:red;
+    font-family: 'Lobster', cursive;
+}
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color:red;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 3px solid #333333;
+  border-bottom: 7px solid #333333;
+  border-left: 2px solid #CCCCCC;
+  position: absolute;
+    top:50%;
+    right:42%;
+    font-size:40px;
+    font-family: 'Gloria Hallelujah', cursive;
+}

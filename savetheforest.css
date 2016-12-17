@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+img{
+    height:50px;
+    width:50px;
+    position: absolute;
+    }
+
+#g{ left:50px;
+    
+}    
+#h{
+    left:100px;
+}
+#a{
+    left:200px;
+    }
+#r{ 
+    left:300px;    
+}
+#s{ left:400px;    
+}
+#t{ left:500px;    
+}
+#u{ left:600px;    
+}
+#v{ left:700px;    
+}
+#w{ left:800px;    
+}
+#x{ left:900px;    
+}
+#z {left:1000px;
+}
+#b {left:1100px;
+}
+#c {left:1200px;
+}
+
+#d {left:1300px;
+}
+
+#e {left:1400px;
+}
+
+#f{left:1500px;
+}
+
+
+
+
+
+body{
+    background:url("https://www.goodfreephotos.com/albums/united-states/wisconsin/hoffman-hills-state-recreation-area/wisconsin-hoffman-hills-state-recreation-area-green-forest.jpg");
+    height: 100%;
+    overflow: hidden; }
+
+
+p{
+    font-size:100px;
+    font-family:'Lobster', cursive; }
+    
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color:red;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 3px solid #333333;
+  border-bottom: 7px solid #333333;
+  border-left: 2px solid #CCCCCC;
+  position: absolute;
+  top:50%;
+  right:42%;
+  font-size:40px; }
+
+#hidden{
+    display: none; }
+    
